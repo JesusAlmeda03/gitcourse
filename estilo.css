@@ -4,3 +4,10 @@ body{
     font-size: 16px;
     color: purple;
 }
+
+#cabecera{
+    color: blue;
+    padding: 10px 0px;
+    border: 1px solid black;
+    
+}
